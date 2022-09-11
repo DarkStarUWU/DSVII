@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>laboratorio 1.4</title>
+    <title>laboratorio 1.6</title>
 </head>
 <body>
  
